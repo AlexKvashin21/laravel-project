@@ -77,7 +77,7 @@ class PostController extends Controller
     //обновление поста с проверкой на совпадение
     public function updateOrCreate(){
         $anotherPost = [
-            'title' => 'new updated',
+            'title' => 'new updatedr432432',
             'content' => 'new 3232updated',
             'image' => 'new updated344343',
             'likes' => 10032,
